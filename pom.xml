@@ -27,7 +27,7 @@
 
   <licenses>
 		<license>
-			<name>Simplified BSD License</name>
+			<name>GPL-3.0 License</name>
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
@@ -79,7 +79,7 @@
 
   <properties>
 	<main-class>Palaeo_Curve_Tool</main-class>
-	<license.licenseName>bsd_2</license.licenseName>
+	<license.licenseName>GPL-3.0 License</license.licenseName>
 	<license.copyrightOwners>Palaeoware/Dr A.R.T. Spencer</license.copyrightOwners>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
